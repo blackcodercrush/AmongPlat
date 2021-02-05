@@ -4,6 +4,7 @@ AMong Plat adalah sebuah game platformer yang menggunakan karakter dari game Amo
 ## Supported
 Game ini hanya mendukung sistem
 - Linux 64 bit ([Download](https://github.com/blackcodercrush/AmongPlat/releases/download/v0.1/AmongPlat_v0.1_linux.tar.gz))
+- Windows 64 bit ([Download](https://github.com/blackcodercrush/AmongPlat/releases/download/v0.1/AmongPlat_v0.1_windows.zip))
 
 ## License
 Game ini tidak memiliki lisensi apapun, anda bebas mengubah sumber daya yang ada di game ini dan diupload ulang dengan syarat harus menyertakan repo sumber nya.
